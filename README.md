@@ -23,6 +23,9 @@ The steps for this homework are divided into the following sections:
 ---
 
 ## Results
+Here is a recording of the transactions being completed as well as withdrawals.
+
+![Image](Images/Dep1.gif)
 
 ### Deposit 1 Ether in Wei
 ![Image](Images/Dep1.png)
