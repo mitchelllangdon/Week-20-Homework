@@ -21,3 +21,20 @@ The steps for this homework are divided into the following sections:
  * Interact with Your Deployed Smart Contract
 
 ---
+
+## Results
+
+### Deposit 1 Ether in Wei
+![Image](Images/Dep1.png)
+
+### Deposit 5 Ether in Wei
+![Image](Images/Dep5.png)
+
+### Deposit 10 Ether in Wei
+![Image](Images/Dep10.png)
+
+### Withdrawal
+The following shows a 5 Ether withdrawal with confirmation.
+
+![Image](Images/Withdraw5Ether.png)
+![Image](Images/Withdraw5EtherProof.png)
